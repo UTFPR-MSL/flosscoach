@@ -1,4 +1,3 @@
-![logo](https://gitlab.com/flosscoach/flosscoach/raw/master/app/assets/images/flosscoach-logo.png) 
 # FLOSSCoach
 We are a community aimed to help newcomers get into
 *Free/Libre Open Source Software* (FLOSS). 
@@ -20,8 +19,5 @@ FLOSScoach is build using:
 
 ## Code style
 We recommend using [Rails-Style-Guide](https://github.com/rubocop-hq/rails-style-guide) as a coding style
-
-## Contribute
-Want to contribute and not sure how to start? Here's our documentation for [contributions](https://gitlab.com/flosscoach/flosscoach/blob/master/contribute.md)
 
 
